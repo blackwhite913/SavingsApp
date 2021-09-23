@@ -1,4 +1,4 @@
-from flask_restful import Resource, reqparse
+ from flask_restful import Resource, reqparse
 from models.spends import SpendModel
 import datetime
 from db import db
